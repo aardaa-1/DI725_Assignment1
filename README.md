@@ -1,5 +1,3 @@
-<img width="1121" height="513" alt="image" src="https://github.com/user-attachments/assets/50f95f7c-411d-4a55-9090-745932c60fa1" /># DI725_Assignment1
-
 ## Overview
 This project focuses on sentiment classification of customer service conversations using a transformer based ROBERTa model. The task is a 3 class classification problem (negative, neutral, positive) with a highly imbalanced dataset.
 
